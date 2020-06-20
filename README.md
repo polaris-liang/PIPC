@@ -15,7 +15,7 @@ data.txt
 
 We set K = 5, grouping 370 customers into five clusters.
  
-Run the standard k-means clustering:
+Run the standard k-means clustering
 ```
 python kmeans.py
 ```
