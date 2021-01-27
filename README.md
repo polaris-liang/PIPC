@@ -1,4 +1,4 @@
-# PPVC
+# PIPC
 
 Data Description: “ElectricityLoadDiagrams” in UCI, containing 370 customers with 140256 attributes, each of which gives the electricity consumption value every 15 minutes. As the attributes are too much, we accomplish dimension reduction such that each item has only four attributes.
 ```
